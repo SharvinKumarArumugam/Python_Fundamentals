@@ -1,6 +1,6 @@
 # Python
 
-![image](https://github.com/SharvinKumarArumugam/Python_Fundamentals/assets/93881528/593b27bf-2ba2-429c-9466-dfeb0a7d5769.png(250x250))
+![image](https://github.com/SharvinKumarArumugam/Python_Fundamentals/assets/93881528/593b27bf-2ba2-429c-9466-dfeb0a7d5769)
 
 > Python Fundamentals
 
