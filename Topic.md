@@ -35,7 +35,7 @@
   - Pandas
   - Matplotlib
     
-> Pthyon Interview Q & A
+> Pthyon Interview Q & A.
 
   
 
